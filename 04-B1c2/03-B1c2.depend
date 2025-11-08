@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733828456 source:d:\piedteam\03-b1c2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1736671123 source:d:\piedteam\04-b1c2\main.c
+	<stdio.h>
+	<stdlib.h>
+
