@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734183643 source:d:\piedteam\10-inductiveresult\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

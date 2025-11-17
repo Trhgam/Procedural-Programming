@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734185615 source:d:\piedteam\12-checkprime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
