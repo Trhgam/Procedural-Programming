@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735226380 source:d:\piedteam\19-checkarmstrong\main.c
+	<stdio.h>
+	<stdlib.h>
+

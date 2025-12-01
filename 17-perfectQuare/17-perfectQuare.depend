@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734782152 source:d:\piedteam\17-perfectquare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
