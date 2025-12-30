@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735276140 source:d:\piedteam\23-mulevenodd\main.c
+	<stdio.h>
+	<stdlib.h>
+
