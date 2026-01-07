@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734787535 source:d:\piedteam\20-printformat\main.c
+	<stdio.h>
+	<stdlib.h>
+
