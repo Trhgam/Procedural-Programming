@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735546259 source:d:\piedteam\28-c heckprimev1\main.c
+	<stdio.h>
+	<stdlib.h>
+
