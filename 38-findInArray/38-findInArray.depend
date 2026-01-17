@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739689867 source:d:\piedteam\38-findinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
